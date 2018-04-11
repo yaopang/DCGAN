@@ -1,1 +1,3 @@
-# DCGAN
+# readme
+
+DCGAN implementation"# DCGAN" 
